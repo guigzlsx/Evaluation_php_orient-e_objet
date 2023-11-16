@@ -26,8 +26,8 @@ Détail :
 
 - name
 - nombre billes
-- gagner (abstract)
-- perdre (abstract)
+- gagner
+- perdre 
 
 ### Hero extend Character
 
